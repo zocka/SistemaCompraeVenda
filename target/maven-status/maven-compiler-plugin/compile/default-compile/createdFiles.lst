@@ -1,3 +1,9 @@
-br\com\zockaecia\scv\AppSCV.class
+model\Marca.class
+model\Categoria.class
+dao\ProdutoDao.class
 dao\Conexao.class
 controller\TelaPrincipalController.class
+model\Produto.class
+br\com\zockaecia\scv\AppSCV.class
+dao\MarcaDao.class
+dao\CategoriaDao.class
